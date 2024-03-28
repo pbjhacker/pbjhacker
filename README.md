@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Briones
 ====================================================================================================================================
 
-Cybersecurity Analyst | Pen-tester Enthusiast
+Cybersecurity Analyst | Pentester Enthusiast
 ---------------------------------------------
 
 I’ve been learning to code for the past 2 years while working in the electrical industry full-time. I’ve been learning Python, SQL, and most recently HTML and CSS. The possibilities and projects that emerge from learning these skills has just exponentially increased my passion for becoming a Penetration Tester and make the move into switching careers. I hope to make a positive impact in the tech industry and help anyone else that decides to make the move as well!
